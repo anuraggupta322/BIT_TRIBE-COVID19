@@ -23,8 +23,13 @@ The workflow is such that -:
 o	Signup/Login for different stakeholders
 
 o	Section referring to current government schemes for farmers, retailers and landlords
-o	Forum section showing the latest trends going on 
-•	Farmers on login/registration can have access to all the facilities such as land booking, mandi slot booking, leasing/purchasing necessary equipment’s/products for farming. 
-•	Landlords can post their lands if available for rental/lease 
+
+o	Forum section showing the latest trends going on
+
+•	Farmers on login/registration can have access to all the facilities such as land booking, mandi slot booking, leasing/purchasing necessary equipment’s/products for farming.
+
+•	Landlords can post their lands if available for rental/lease
+
 •	Local vendors can post their purchase offers on various products/goods. And also if machinery items are available for lease. 
+
 •	And special transaction feature where the transaction could made by the produce if the farmer has no money to pay to other aggregators. Simply entering his amount of produce the capital will be calculated and if the aggregators agree the transaction is made.
