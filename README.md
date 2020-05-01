@@ -19,7 +19,9 @@ A chat forum is also there in the web application to see other person’s querie
 
 The workflow is such that -:
 •	The web application will have a home page containing 
+
 o	Signup/Login for different stakeholders
+
 o	Section referring to current government schemes for farmers, retailers and landlords
 o	Forum section showing the latest trends going on
 •	Farmers on login/registration can have access to all the facilities such as land booking, mandi slot booking, leasing/purchasing necessary equipment’s/products for farming.
