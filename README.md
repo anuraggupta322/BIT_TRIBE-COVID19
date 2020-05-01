@@ -1,6 +1,8 @@
 # BIT_TRIBE-HackCoVIT
 
 **KishanBandhu
+
+
 Solution is to bring Indian farmers, local vendors, and landlords together in a common platform, so that it an inter communication channel could be established between them. 
 
 Where the farmers could find that best land that suits them at their convenient price and has no pressure to pay more lately to landlord from the landlord. Also the farmers could select and approach the mandi once the crops are harvested and ready to bring to the market. While the crops are under the cultivation process the plantation needs and the machineries could be bought or taken at lease from the local vendors. They can use Agri credits which would be available on our platform which is being given as per the performance and engagement of the farmer. 
